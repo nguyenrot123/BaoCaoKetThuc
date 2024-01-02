@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../XAMPP/htdocs/api"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webside"
+	}
+}
